@@ -53,7 +53,7 @@ function anioRef(v){return Math.min(v.hasta,Math.round((v.desde+v.hasta)/2));}
 function pic(v,big){const f=(window.FOTOS||{})[v.id];if(!f)return ILU.vehiculo(v);
   return `<img class="foto${big?" big":""}" src="fotos/${v.id}.jpg" alt="Foto de ${esc(vname(v))} ${esc(v.gen)}" loading="lazy" decoding="async">`;}
 function credito(v){const f=(window.FOTOS||{})[v.id];if(!f)return "Ilustración generada (no es una foto del modelo real)";
-  return `Foto: ${esc(f.autor||"autor desconocido")} · ${esc(f.licencia||"")} · <a href="${esc(f.url)}" target="_blank" rel="noopener">Wikimedia Commons</a>`;}
+  return `Foto: ${esc(f.autor||"autor desconocido")} · ${esc(f.licencia||"")} · <a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.fuente||"Wikimedia Commons")}</a>`;}
 function gl(term,txt){return `<button type="button" class="gl" data-g="${esc(term)}">${esc(txt||term)}</button>`;}
 function tagsHTML(v,max=3){
   const pri=["a2","a2l","125","dep","fiab","clas","circ","barato","prac","novel","efic","ruta","off"];
