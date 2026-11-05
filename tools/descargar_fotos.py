@@ -53,7 +53,7 @@ MOTOS=set(_ids[220:])
 faltan = []
 for line in open(os.path.join(BASE, "tools", "lista.txt"), encoding="utf-8"):
     if "|" not in line: continue
-    vid, q, *resto = line.strip().split("|")
+    vid, q, *resto = line.strip().split("|", 2)
     tok = resto[0] if resto else None
     dest = os.path.join(OUT, vid + ".jpg")
     if os.path.exists(dest) and vid in cred: continue

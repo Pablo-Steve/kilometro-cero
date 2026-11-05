@@ -86,7 +86,7 @@ citroen-c4-i-ii|Citroen C4 2008|C4.*(200[4-9]|201[0-7]|I[_ )]|II[_ )])
 ford-fiesta-st-mk7-mk8|Ford Fiesta ST MK7 MK8
 ford-fiesta-mk6-mk7|Ford Fiesta Mk7 2009|fiesta.*(mk ?6|mk ?7|VI[_ )]|200[2-9]|201[0-6])
 ford-focus-mk1-mk2|Ford Focus Mk1|focus
-ford-focus-mk3-mk4|Ford Focus Mk3|focus
+ford-focus-mk3-mk4|Ford Focus Mk3|focus.*(mk ?[34]|III|IV|201[1-9]|202)
 ford-mustang-s550|Ford Mustang S550
 ford-ranger-t6|Ford Ranger T6|ranger.*(T6|201[1-9]|202[01]|III)
 mazda-mx-5-na|Mazda MX-5 NA
@@ -219,7 +219,7 @@ cupra-born-k1|Cupra Born|born
 smart-fortwo-451-453|Smart ForTwo 451 453
 chevrolet-camaro-vi|Chevrolet Camaro VI
 yamaha-mt-07-rm04-rm33|Yamaha MT-07|MT-?07
-yamaha-mt-09-rn29-rn69|Yamaha MT-09|MT-?09
+yamaha-mt-09-rn29-rn69|Yamaha MT-09 2021|MT-?09(?!.*tracer)
 yamaha-mt-03-rh07-rh17|Yamaha MT-03|MT-?03
 yamaha-mt-10-rn45|Yamaha MT-10|MT-?10
 yamaha-mt-125-re29|Yamaha MT-125|MT-?125
@@ -236,9 +236,9 @@ yamaha-xsr700-rm22|Yamaha XSR700|XSR ?700
 yamaha-xsr900-rn46-rn69|Yamaha XSR900|XSR ?900
 yamaha-tmax-sj-12|Yamaha TMAX 530|T-?MAX
 yamaha-xmax-300-sg42|Yamaha XMAX 300 SG42
-kawasaki-z650-er650h-k|Kawasaki Z650|Z ?650
+kawasaki-z650-er650h-k|Kawasaki Z650 2017|Z ?650.*(201|202)|201[7-9]|202
 kawasaki-er-6n-er650a-c|Kawasaki ER-6n|ER-?6
-kawasaki-z900-zr900b-f|Kawasaki Z900|Z ?900(?!RS)
+kawasaki-z900-zr900b-f|Kawasaki Z900 2017|Z ?900.*(201|202)
 kawasaki-z900rs-zr900c|Kawasaki Z900RS|Z ?900 ?RS
 kawasaki-z400-z500-er400d-er500|Kawasaki Z400|Z ?[45]00
 kawasaki-ninja-650-ex650|Kawasaki Ninja 650 EX650
