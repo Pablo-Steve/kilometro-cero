@@ -1,15 +1,23 @@
 """Descarga una foto real (Wikipedia/Wikimedia Commons, licencia libre) por modelo.
 Uso: python tools/descargar_fotos.py   (lee tools/lista.txt y escribe en fotos/)"""
-import json, os, re, time, urllib.parse, urllib.request
+import json, os, re, time, urllib.error, urllib.parse, urllib.request
 UA = {"User-Agent": "KilometroCeroFotos/1.0 (proyecto personal no comercial; github actions)"}
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(BASE, "fotos"); os.makedirs(OUT, exist_ok=True)
 CRED = os.path.join(OUT, "creditos.json")
 cred = json.load(open(CRED, encoding="utf-8")) if os.path.exists(CRED) else {}
+def fetch(u):
+    for intento in range(6):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=60) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 503) and intento < 5:
+                espera = int(e.headers.get("Retry-After") or 0) or 15 * (intento + 1)
+                print("  esperando", espera, "s (", e.code, ")"); time.sleep(min(espera, 120)); continue
+            raise
 def get(url, params):
-    u = url + "?" + urllib.parse.urlencode(params)
-    with urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=30) as r:
-        return json.load(r)
+    return json.loads(fetch(url + "?" + urllib.parse.urlencode(params)))
 def lead_image(q):
     d = get("https://en.wikipedia.org/w/api.php", {"action": "query", "generator": "search", "gsrsearch": q, "gsrlimit": 4, "prop": "pageimages", "piprop": "name", "format": "json"})
     pages = sorted(d.get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
@@ -41,13 +49,13 @@ for line in open(os.path.join(BASE, "tools", "lista.txt"), encoding="utf-8"):
         ii = list(d["query"]["pages"].values())[0].get("imageinfo")
         if not ii: faltan.append(vid); continue
         ii = ii[0]; md = ii.get("extmetadata", {})
-        req = urllib.request.Request(ii.get("thumburl") or ii["url"], headers=UA)
-        with urllib.request.urlopen(req, timeout=60) as r, open(dest, "wb") as f: f.write(r.read())
+        datos = fetch(ii.get("thumburl") or ii["url"])
+        with open(dest, "wb") as f: f.write(datos)
         cred[vid] = {"archivo": name, "autor": strip(md.get("Artist", {}).get("value"))[:120], "licencia": strip(md.get("LicenseShortName", {}).get("value")), "url": ii.get("descriptionurl")}
         print("ok", vid, name)
     except Exception as e:
         print("error", vid, e); faltan.append(vid)
-    time.sleep(0.4)
+    time.sleep(2)
 json.dump(cred, open(CRED, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 open(os.path.join(OUT, "faltan.txt"), "w").write("\n".join(faltan))
 print("fotos:", len(cred), "faltan:", len(faltan))
