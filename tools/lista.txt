@@ -1,0 +1,351 @@
+bmw-serie-3-e30|BMW 3 Series E30
+bmw-m3-e30|BMW M3 E30
+bmw-serie-3-e36|BMW 3 Series E36
+bmw-m3-e36|BMW M3 E36
+bmw-serie-3-e46|BMW 3 Series E46
+bmw-serie-3-compact-e46|BMW 3 Series Compact E46
+bmw-m3-e46|BMW M3 E46
+bmw-serie-3-e90-e92|BMW 3 Series E90 E92
+bmw-m3-e92|BMW M3 E92
+bmw-serie-3-f30|BMW 3 Series F30
+bmw-m3-m4-f80-f82|BMW M4 F82
+bmw-serie-3-g20|BMW 3 Series G20
+bmw-m3-g80|BMW M3 G80
+bmw-serie-1-e87-e82|BMW 1 Series E87 E82
+bmw-serie-1-f20|BMW 1 Series F20
+bmw-serie-5-e39|BMW 5 Series E39
+bmw-serie-5-e60|BMW 5 Series E60
+bmw-z4-e85|BMW Z4 E85
+bmw-x5-e70|BMW X5 E70
+audi-a3-8l|Audi A3 8L
+audi-a3-8p|Audi A3 8P
+audi-rs3-8v|Audi RS3 8V
+audi-a4-b7|Audi A4 B7
+audi-tt-8n|Audi TT 8N
+audi-r8-42|Audi R8 42
+volkswagen-golf-iv|Volkswagen Golf Mk4
+volkswagen-golf-v|Volkswagen Golf Mk5
+volkswagen-golf-vi|Volkswagen Golf Mk6
+volkswagen-golf-vii|Volkswagen Golf Mk7
+volkswagen-golf-viii|Volkswagen Golf Mk8
+volkswagen-polo-9n-6r|Volkswagen Polo 9N 6R
+volkswagen-scirocco-iii|Volkswagen Scirocco III
+volkswagen-passat-b6-b7|Volkswagen Passat B6 B7
+seat-ibiza-6l|SEAT Ibiza 6L
+seat-ibiza-6j|SEAT Ibiza 6J
+seat-ibiza-6f|SEAT Ibiza 6F
+seat-leon-1m|SEAT León Mk1
+seat-leon-1p|SEAT León Mk2
+seat-leon-5f|SEAT León Mk3
+cupra-leon-kl|Cupra León Mk4
+cupra-formentor-km|Cupra Formentor KM
+skoda-octavia-1z-5e|Škoda Octavia Mk2
+skoda-fabia-ii-iii|Skoda Fabia II III
+mercedes-benz-clase-c-w203|Mercedes-Benz C-Class W203
+mercedes-benz-clase-c-w204|Mercedes-Benz C-Class W204
+mercedes-benz-clase-a-w176-w177|Mercedes-Benz A-Class W176 W177
+mercedes-benz-slk-r171|Mercedes-Benz SLK R171
+honda-civic-ep3|Honda Civic Type R EP3
+honda-civic-fn2|Honda Civic Type R FN2
+honda-civic-fk8|Honda Civic Type R FK8
+honda-civic-fl5|Honda Civic Type R FL5
+honda-s2000-ap1-ap2|Honda S2000 AP1 AP2
+honda-integra-dc2|Honda Integra DC2
+honda-cr-v-iii|Honda CR-V III
+toyota-corolla-ae86|Toyota AE86
+toyota-corolla-e210|Toyota Corolla E210
+toyota-yaris-xp90-xp130|Toyota Yaris XP90 XP130
+toyota-gr-yaris-gxpa16|Toyota GR Yaris GXPA16
+toyota-gt86-gr86-zn6-zn8|Toyota 86
+toyota-supra-a80|Toyota Supra A80
+toyota-gr-supra-a90|Toyota GR Supra A90
+toyota-land-cruiser-j150|Toyota Land Cruiser J150
+toyota-hilux-an120|Toyota Hilux AN120
+toyota-mr2-w30|Toyota MR2 W30
+toyota-celica-t230|Toyota Celica T230
+nissan-350z-z33|Nissan 350Z Z33
+nissan-370z-z34|Nissan 370Z Z34
+nissan-skyline-gt-r-r34|Nissan Skyline GT-R R34
+nissan-gt-r-r35|Nissan GT-R R35
+nissan-200sx-s14|Nissan Silvia S14
+nissan-qashqai-j10-j11|Nissan Qashqai J10 J11
+renault-clio-ii-rs|Renault Clio II RS
+renault-clio-iii|Renault Clio III
+renault-clio-iv-v|Renault Clio IV V
+renault-megane-rs-iii|Renault Mégane RS III
+renault-megane-rs-iv|Renault Mégane RS IV
+alpine-a110-as1|Alpine A110 AS1
+dacia-sandero-ii-iii|Dacia Sandero II III
+dacia-duster-i-ii|Dacia Duster I II
+peugeot-205-gti|Peugeot 205 GTi
+peugeot-206-rc-gti|Peugeot 206 RC GTi
+peugeot-208-ii|Peugeot 208 II
+peugeot-308-ii|Peugeot 308 II
+citroen-saxo-vts|Citroën Saxo VTS
+citroen-c4-i-ii|Citroën C4 I II
+ford-fiesta-st-mk7-mk8|Ford Fiesta ST MK7 MK8
+ford-fiesta-mk6-mk7|Ford Fiesta MK6 MK7
+ford-focus-mk1-mk2|Ford Focus MK1 MK2
+ford-focus-mk3-mk4|Ford Focus MK3 MK4
+ford-mustang-s550|Ford Mustang S550
+ford-ranger-t6|Ford Ranger T6
+mazda-mx-5-na|Mazda MX-5 NA
+mazda-mx-5-nb|Mazda MX-5 NB
+mazda-mx-5-nc|Mazda MX-5 NC
+mazda-mx-5-nd|Mazda MX-5 ND
+mazda-rx-8-se3p|Mazda RX-8 SE3P
+mazda-3-bl-bm|Mazda 3 BL BM
+mazda-cx-5-ke-kf|Mazda CX-5 KE KF
+subaru-impreza-wrx-sti-gd|Subaru Impreza WRX STI GD
+subaru-brz-zc6-zd8|Subaru BRZ ZC6 ZD8
+subaru-forester-sh-sj|Subaru Forester SH SJ
+mitsubishi-lancer-evolution-vii-ix|Mitsubishi Lancer Evolution VII-IX
+hyundai-i30-n-pd|Hyundai i30 N PD
+hyundai-i30-gd-pd|Hyundai i30 GD PD
+hyundai-ioniq-5-ne|Hyundai Ioniq 5 NE
+kia-ceed-jd-cd|Kia Ceed JD CD
+kia-stinger-ck|Kia Stinger CK
+kia-ev6-cv|Kia EV6 CV
+fiat-500-312|Fiat 500 312
+fiat-punto-188-199|Fiat Grande Punto
+alfa-romeo-147-156-937-932|Alfa Romeo 147 GTA
+alfa-romeo-giulia-952|Alfa Romeo Giulia 952
+alfa-romeo-brera-spider-939|Alfa Romeo Brera Spider 939
+porsche-911-996|Porsche 996
+porsche-911-997|Porsche 997
+porsche-boxster-cayman-986-987|Porsche Boxster Cayman 986 987
+porsche-718-cayman-982|Porsche 718 Cayman 982
+porsche-taycan-j1|Porsche Taycan J1
+volvo-v70-s60-p2|Volvo V70 S60 P2
+opel-astra-h|Opel Astra H
+opel-corsa-d-e|Opel Corsa D E
+suzuki-swift-sport-zc31-32-33|Suzuki Swift Sport ZC31 32 33
+suzuki-jimny-jb74|Suzuki Jimny JB74
+tesla-model-3-lr-p|Tesla Model 3 LR P
+tesla-model-y-y|Tesla Model Y Y
+lexus-is-xe20-xe30|Lexus IS XE20 XE30
+mini-cooper-s-r53-r56|Mini Cooper S R53 R56
+mini-cooper-s-f56|Mini Cooper S F56
+lotus-elise-s2|Lotus Elise S2
+ferrari-458-italia-f142|Ferrari 458 Italia F142
+chevrolet-corvette-c8|Chevrolet Corvette C8
+land-rover-defender-l663|Land Rover Defender L663
+jeep-wrangler-jk-jl|Jeep Wrangler JK JL
+bmw-serie-3-compact-e36|BMW 3 Series Compact E36
+bmw-serie-4-f32|BMW 4 Series F32
+bmw-m2-f87|BMW M2 F87
+bmw-m2-g87|BMW M2 G87
+bmw-z3-e36-7|BMW Z3 E36 7
+bmw-x3-e83-f25|BMW X3 E83 F25
+bmw-serie-5-g30|BMW 5 Series G30
+bmw-i3-i01|BMW i3 I01
+audi-a3-8v|Audi A3 8V
+audi-a4-b8|Audi A4 B8
+audi-a4-b9|Audi A4 B9
+audi-a6-c7|Audi A6 C7
+audi-q5-8r-fy|Audi Q5 8R FY
+audi-tt-8j-8s|Audi TT 8J 8S
+audi-r8-4s|Audi R8 4S
+volkswagen-golf-ii|Volkswagen Golf Mk2 GTI
+volkswagen-golf-iii|Volkswagen Golf Mk3
+volkswagen-t-roc-a1|Volkswagen T-Roc A1
+volkswagen-tiguan-5n-ad|Volkswagen Tiguan 5N AD
+volkswagen-id-3-e1|Volkswagen ID.3 E1
+volkswagen-up-gti-aa|Volkswagen up! GTI AA
+seat-leon-iii-cupra-r|SEAT León III Cupra R
+seat-arona-ateca-kj-5f|SEAT Arona Ateca KJ 5F
+seat-panda-marbella-clasico|SEAT Marbella
+skoda-octavia-rs-iii-iv|Skoda Octavia RS III IV
+mercedes-benz-clase-c-w205|Mercedes-Benz C-Class W205
+mercedes-benz-clase-e-w211-w212|Mercedes-Benz E-Class W211 W212
+mercedes-benz-clase-g-w463|Mercedes-Benz G-Class W463
+mercedes-benz-slk-r170|Mercedes-Benz SLK R170
+honda-civic-ek-eg|Honda Civic EK EG
+honda-jazz-iii-iv|Honda Jazz III IV
+honda-accord-viii|Honda Accord VIII
+honda-nsx-na1|Honda NSX NA1
+toyota-c-hr-ax10|Toyota C-HR AX10
+toyota-rav4-xa50|Toyota RAV4 XA50
+toyota-auris-e150-e180|Toyota Auris E150 E180
+toyota-gr-corolla-e210|Toyota GR Corolla E210
+nissan-micra-k12-k14|Nissan Micra K12 K14
+nissan-juke-f15-f16|Nissan Juke F15 F16
+nissan-leaf-ze1|Nissan Leaf ZE1
+renault-5-turbo-r5-gt-turbo-clasico|Renault 5 Turbo   R5 GT Turbo
+renault-megane-ii-rs|Renault Mégane II RS
+renault-captur-i-ii|Renault Captur I II
+renault-zoe-ze50|Renault Zoe ZE50
+peugeot-106-rallye-gti|Peugeot 106 Rallye GTi
+peugeot-3008-ii|Peugeot 3008 II
+citroen-c3-iii|Citroën C3 III
+citroen-c5-aircross-c84|Citroën C5 Aircross C84
+ford-puma-j2k|Ford Puma J2K
+ford-kuga-ii-iii|Ford Kuga II III
+ford-sierra-cosworth-rs|Ford Sierra Cosworth RS
+mazda-2-de-dj|Mazda 2 DE DJ
+mazda-rx-7-fd3s|Mazda RX-7 FD3S
+mazda-mx-30-dr|Mazda MX-30 DR
+subaru-impreza-gc8|Subaru Impreza GC8
+subaru-outback-br-bs|Subaru Outback BR BS
+mitsubishi-montero-v80|Mitsubishi Pajero fourth generation
+hyundai-i20-n-bc3|Hyundai i20 N BC3
+hyundai-tucson-nx4|Hyundai Tucson NX4
+kia-sportage-ql-nq5|Kia Sportage QL NQ5
+kia-picanto-ja|Kia Picanto JA
+kia-niro-de-sg2|Kia Niro DE SG2
+fiat-panda-169-319|Fiat Panda 169 319
+fiat-124-spider-348|Fiat 124 Spider 348
+alfa-romeo-stelvio-949|Alfa Romeo Stelvio 949
+alfa-romeo-mito-955|Alfa Romeo MiTo 955
+porsche-911-991|Porsche 991
+porsche-911-992|Porsche 992
+porsche-cayenne-9pa-92a|Porsche Cayenne 9PA 92A
+porsche-macan-95b|Porsche Macan 95B
+volvo-xc60-i-ii|Volvo XC60 I II
+volvo-240-clasico|Volvo 240
+opel-calibra-clasico|Opel Calibra
+opel-astra-k|Opel Astra K
+lamborghini-huracan-lb724|Lamborghini Huracán LB724
+ferrari-f8-tributo-f142mfl|Ferrari F8 Tributo F142MFL
+mclaren-570s-p13|McLaren 570S P13
+lotus-exige-s3|Lotus Exige S3
+tesla-model-s-s|Tesla Model S S
+dacia-spring-bbg|Dacia Spring BBG
+dacia-jogger-rji|Dacia Jogger RJI
+jeep-renegade-bu|Jeep Renegade BU
+land-rover-defender-clasico|Land Rover Defender 110
+land-rover-range-rover-evoque-l538-l551|Land Rover Range Rover Evoque L538 L551
+cupra-born-k1|Cupra Born K1
+smart-fortwo-451-453|Smart ForTwo 451 453
+chevrolet-camaro-vi|Chevrolet Camaro VI
+yamaha-mt-07-rm04-rm33|Yamaha MT-07 RM04-RM33
+yamaha-mt-09-rn29-rn69|Yamaha MT-09 RN29-RN69
+yamaha-mt-03-rh07-rh17|Yamaha MT-03 RH07-RH17
+yamaha-mt-10-rn45|Yamaha MT-10 RN45
+yamaha-mt-125-re29|Yamaha MT-125 RE29
+yamaha-yzf-r1-rn32-rn65|Yamaha YZF-R1 RN32-RN65
+yamaha-yzf-r1-rn09-rn22|Yamaha YZF-R1 RN09-RN22
+yamaha-yzf-r6-rj11-rj27|Yamaha YZF-R6 RJ11-RJ27
+yamaha-yzf-r7-rm39|Yamaha YZF-R7 RM39
+yamaha-yzf-r3-rh07-rh12|Yamaha YZF-R3 RH07-RH12
+yamaha-yzf-r125-re06-re40|Yamaha YZF-R125 RE06-RE40
+yamaha-tracer-7-rm14-rm34|Yamaha Tracer 7 RM14-RM34
+yamaha-tracer-9-gt-rn43-rn71|Yamaha Tracer 9 GT RN43-RN71
+yamaha-tenere-700-dm08|Yamaha Ténéré 700 DM08
+yamaha-xsr700-rm22|Yamaha XSR700 RM22
+yamaha-xsr900-rn46-rn69|Yamaha XSR900 RN46-RN69
+yamaha-tmax-sj-12|Yamaha TMAX SJ-12
+yamaha-xmax-300-sg42|Yamaha XMAX 300 SG42
+kawasaki-z650-er650h-k|Kawasaki Z650 ER650H-K
+kawasaki-er-6n-er650a-c|Kawasaki ER-6n ER650A-C
+kawasaki-z900-zr900b-f|Kawasaki Z900 ZR900B-F
+kawasaki-z900rs-zr900c|Kawasaki Z900RS ZR900C
+kawasaki-z400-z500-er400d-er500|Kawasaki Z400   Z500 ER400D-ER500
+kawasaki-ninja-650-ex650|Kawasaki Ninja 650 EX650
+kawasaki-ninja-400-500-ex400-ex500|Kawasaki Ninja 400   500 EX400-EX500
+kawasaki-ninja-zx-6r-zx636|Kawasaki Ninja ZX-6R ZX636
+kawasaki-ninja-zx-10r-zxt00|Kawasaki Ninja ZX-10R ZXT00
+kawasaki-versys-650-le650|Kawasaki Versys 650 LE650
+honda-cb650r-rh02|Honda CB650R RH02
+honda-cb500f-cb500-hornet-pc45-pc64|Honda CB500F   CB500 Hornet PC45-PC64
+honda-cbr650r-f-rh03|Honda CBR650R   F RH03
+honda-cbr500r-pc44-pc64|Honda CBR500R PC44-PC64
+honda-cbr600rr-pc37-pc40|Honda CBR600RR PC37-PC40
+honda-cbr1000rr-fireblade-sc57-sc77|Honda CBR1000RR Fireblade SC57-SC77
+honda-cb750-hornet-rh12|Honda CB750 Hornet RH12
+honda-hornet-600-pc34-pc41|Honda Hornet 600 PC34-PC41
+honda-nc750x-rc90-rh09|Honda NC750X RC90-RH09
+honda-x-adv-rc95-rh10|Honda X-ADV RC95-RH10
+honda-africa-twin-sd04-sd10|Honda Africa Twin SD04-SD10
+honda-xl750-transalp-rd16|Honda XL750 Transalp RD16
+honda-cb125r-jc79-jc91|Honda CB125R JC79-JC91
+honda-pcx-125-jf56-jk05|Honda PCX 125 JF56-JK05
+honda-rebel-500-pc56|Honda Rebel 500 PC56
+ktm-390-duke-jgj-jpj|KTM 390 Duke JGJ-JPJ
+ktm-125-duke-jga|KTM 125 Duke JGA
+ktm-790-890-duke-tu1-tu5|KTM 790   890 Duke TU1-TU5
+ktm-1290-super-duke-r-evo|KTM 1290 Super Duke R EVO
+ktm-690-smc-r-lc4|KTM 690 SMC R LC4
+ktm-890-adventure-tu8|KTM 890 Adventure TU8
+husqvarna-svartpilen-vitpilen-401-hq401|Husqvarna Svartpilen   Vitpilen 401 HQ401
+triumph-street-triple-765-rs-r|Triumph Street Triple 765 RS R
+triumph-street-triple-675-d67ld|Triumph Street Triple 675 D67LD
+triumph-trident-660-h1|Triumph Trident 660 H1
+triumph-speed-triple-1200-rs-ds12|Triumph Speed Triple 1200 RS DS12
+triumph-speed-twin-bonneville-dr|Triumph Speed Twin   Bonneville DR
+triumph-tiger-sport-660-h2|Triumph Tiger Sport 660 H2
+ducati-monster-821-937|Ducati Monster 821-937
+ducati-monster-696-1100|Ducati Monster 696-1100
+ducati-scrambler-800-k1-3g|Ducati Scrambler 800 K1-3G
+ducati-panigale-v4-1h|Ducati Panigale V4 1H
+ducati-streetfighter-v4-1h|Ducati Streetfighter V4 1H
+ducati-multistrada-v2-950-aa|Ducati Multistrada V2 950 AA
+suzuki-sv650-av|Suzuki SV650 AV
+suzuki-gsx-8s-em1|Suzuki GSX-8S EM1
+suzuki-gsx-s750-c5|Suzuki GSX-S750 C5
+suzuki-gsx-s1000-gt79|Suzuki GSX-S1000 GT79
+suzuki-gsx-r750-k4-l1|Suzuki GSX-R750 K4-L1
+suzuki-gsx-r1000-k5-k8|Suzuki GSX-R1000 K5-K8
+suzuki-v-strom-650-dl650|Suzuki V-Strom 650 DL650
+bmw-r-1250-gs-k50|BMW R 1250 GS K50
+bmw-r-1200-gs-k25-k50|BMW R 1200 GS K25-K50
+bmw-s-1000-rr-k46-k67|BMW S 1000 RR K46-K67
+bmw-s-1000-r-k47-k63|BMW S 1000 R K47-K63
+bmw-f-900-r-k83|BMW F 900 R K83
+bmw-g-310-r-k03|BMW G 310 R K03
+bmw-r-ninet-k21|BMW R nineT K21
+aprilia-rs-660-ks|Aprilia RS 660 KS
+aprilia-tuono-660-kt|Aprilia Tuono 660 KT
+aprilia-tuono-v4-ky|Aprilia Tuono V4 KY
+aprilia-rsv4-rk-kr|Aprilia RSV4 RK-KR
+harley-davidson-sportster-xl883-1200|Harley-Davidson Sportster XL883-1200
+harley-davidson-street-bob-fat-bob-softail-m8|Harley-Davidson Street Bob   Fat Bob Softail M8
+royal-enfield-interceptor-650-int|Royal Enfield Interceptor 650 INT
+royal-enfield-himalayan-411-452|Royal Enfield Himalayan 411-452
+mv-agusta-brutale-800-b3|MV Agusta Brutale 800 B3
+cfmoto-700cl-x-800nk-cl|CFMoto 700CL-X   800NK CL
+kawasaki-klx-kx-supermotard-300-lx300|Kawasaki KLX   KX supermotard 300 LX300
+yamaha-nmax-125-seg|Yamaha NMAX 125 SEG
+yamaha-fz6-fazer-rj07-rj14|Yamaha FZ6   Fazer RJ07-RJ14
+yamaha-xt660r-z-dm01-dm02|Yamaha XT660R Z DM01-DM02
+yamaha-wr125r-x-de07|Yamaha WR125R X DE07
+kawasaki-z1000-zrt00|Kawasaki Z1000 ZRT00
+kawasaki-z750-z800-zr750-zr800|Kawasaki Z750   Z800 ZR750-ZR800
+kawasaki-ninja-1000sx-zxt00w|Kawasaki Ninja 1000SX ZXT00W
+kawasaki-versys-1000-lzt00|Kawasaki Versys 1000 LZT00
+kawasaki-ninja-h2-zxt00p|Kawasaki Ninja H2 ZXT00P
+kawasaki-z-h2-zrt00k|Kawasaki Z H2 ZRT00K
+kawasaki-ninja-125-z125-br125|Kawasaki Ninja 125   Z125 BR125
+honda-cb1000r-sc80|Honda CB1000R SC80
+honda-vfr800-rc46-rc79|Honda VFR800 RC46-RC79
+honda-cbf600-pc38-pc43|Honda CBF600 PC38-PC43
+honda-crf300l-md47|Honda CRF300L MD47
+honda-forza-350-nss350|Honda Forza 350 NSS350
+honda-gold-wing-sc79|Honda Gold Wing SC79
+ktm-690-duke-lc4|KTM 690 Duke LC4
+ktm-1290-super-adventure-s-r|KTM 1290 Super Adventure S R
+ktm-rc-390-jyj|KTM RC 390 JYJ
+husqvarna-701-supermoto-lc4|Husqvarna 701 Supermoto LC4
+triumph-tiger-900-c7|Triumph Tiger 900 C7
+triumph-daytona-675-d67|Triumph Daytona 675 D67
+triumph-thruxton-rs-dd|Triumph Thruxton RS DD
+ducati-hypermotard-950-b2|Ducati Hypermotard 950 B2
+ducati-diavel-g1|Ducati Diavel G1
+ducati-panigale-959-899-h6|Ducati Panigale 959 899 H6
+suzuki-hayabusa-gw71-ej11|Suzuki Hayabusa GW71-EJ11
+suzuki-bandit-650-1250-gsf|Suzuki Bandit 650 1250 GSF
+suzuki-gsr750-c5|Suzuki GSR750 C5
+suzuki-dr-z400sm-sk44|Suzuki DR-Z400SM SK44
+suzuki-v-strom-800de-em1|Suzuki V-Strom 800DE EM1
+bmw-f-800-gs-f-850-gs-k72-k80|BMW F 800 GS   F 850 GS K72-K80
+bmw-r-18-k34|BMW R 18 K34
+bmw-g-310-gs-k02|BMW G 310 GS K02
+moto-guzzi-v7-iii-iv|Moto Guzzi V7 III IV
+moto-guzzi-v85-tt-lv|Moto Guzzi V85 TT LV
+benelli-trk-502-trk|Benelli TRK 502 TRK
+voge-500ds-525-dsx-lx|Voge 500DS   525 DSX LX
+zontes-350-125-zt|Zontes 350   125 ZT
+piaggio-vespa-gts-gts|Piaggio Vespa GTS GTS
+kymco-ak-550-ak|Kymco AK 550 AK
+aprilia-rs-125-rs4|Aprilia RS 125 RS4
+aprilia-tuareg-660-kz|Aprilia Tuareg 660 KZ

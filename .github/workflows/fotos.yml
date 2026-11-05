@@ -1,0 +1,22 @@
+name: Descargar fotos reales
+on:
+  workflow_dispatch:
+  push:
+    paths: ["tools/lista.txt", "tools/descargar_fotos.py"]
+permissions:
+  contents: write
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python tools/descargar_fotos.py
+      - name: Guardar fotos en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add fotos
+          git commit -m "Fotos reales descargadas de Wikimedia Commons" || echo "Sin cambios"
+          git push
